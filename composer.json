@@ -1,0 +1,17 @@
+{
+    "name": "geega/php-dto",
+    "description": "Siimple PHP DTO",
+    "version": "0.0.0",
+    "php": ">=7.0",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.27"
+    },
+    "autoload": {
+        "psr-4": {
+            "Geega\\Dto\\": "src/"
+        }
+    }
+}
